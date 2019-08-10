@@ -25,14 +25,20 @@ body{
 	form{
 		margin-top: 50px;
 		transition: all 4s ease-in-out;
+		position: absolute;
+		right:50px;
+		left:50px;
+		top:50px;
+		bottom:50px;
+		
 	}
 	.form-control
 	{ width:600px;
 		background: transparent;
 		border: none;
 		outline: none;
-		border-bottom: 1px solid white;
-		color: #FFFFFF;
+		border-bottom: 1px solid orange;
+		color:black;
 		font-size: 18px;
 		margin-bottom: 16px;
 	 }

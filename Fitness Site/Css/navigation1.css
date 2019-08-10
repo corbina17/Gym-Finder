@@ -5,4 +5,8 @@
   background-color: dodgerblue;
   color: white;
 }
-.iframe
+
+
+img {
+  border-radius: 8px;
+}
